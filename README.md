@@ -29,10 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-</div><h3 align="center">🚀 Featured Projects</h3>- GadgetStock — REST API for inventory management, built with Java, Spring Boot, and MySQL.
-- ScoreRecord — Python project for historical data processing, sports forecasting, and model evaluation with SQLite.
-- PerdomoPro — My personal bilingual website, built with Astro and deployed on Azure Static Web Apps. Visit the website.
-<h3 align="center">🔥 GitHub Stats</h3><div align="center">
+</div>
   <img src="https://streak-stats.demolab.com?user=perdomopro&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub streak stats" />
 </div><div align="center">
   <a href="https://perdomopro.com/">
