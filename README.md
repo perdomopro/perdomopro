@@ -15,11 +15,12 @@
   <br />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=perdomopro.perdomopro" alt="Profile views" />
 </div>I build solutions that connect software and infrastructure. I enjoy understanding systems end to end—from the problem and the code to deployment and day-to-day operations.
-<h3 align="center">👩‍💻 About Me</h3>- Computer Engineering student at CUCEI · University of Guadalajara.
-- IT Support & Cloud Infrastructure Intern at KnowIT, working with Linux and Windows servers, PowerShell, Azure, and AWS.
-- Interested in backend development, automation, and cloud infrastructure.
-- Based in Guadalajara, Mexico.
-<h3 align="center">🛠 Languages and Tools</h3><div align="center">
+<h3 align="center">👩‍💻 About Me</h3><ul align="left">
+  <li>Computer Engineering student at <strong>CUCEI · University of Guadalajara</strong>.</li>
+  <li><strong>IT Support &amp; Cloud Infrastructure Intern at KnowIT</strong>, working with Linux and Windows servers, PowerShell, Azure, and AWS.</li>
+  <li>Interested in <strong>backend development, automation, and cloud infrastructure</strong>.</li>
+  <li>Based in <strong>Guadalajara, Mexico</strong>.</li>
+</ul><h3 align="center">🛠 Languages and Tools</h3><div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Microsoft Azure" />
@@ -29,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-</div>
+</div><h3 align="center">🔥 GitHub Stats</h3><div align="center">
   <img src="https://streak-stats.demolab.com?user=perdomopro&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub streak stats" />
 </div><div align="center">
   <a href="https://perdomopro.com/">
