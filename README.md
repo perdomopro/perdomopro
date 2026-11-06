@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qbFGJjbTm0SPe/giphy.gif" width="220" alt="Computer animation" />
+ <img src="https://media.giphy.com/media/qbFGJjbTm0SPe/giphy.gif" width="140" alt="Computer animation" />
   <h1>Hey there 👋 I'm Adrián Perdomo</h1>
   <p>
     <a href="https://perdomopro.com/">
